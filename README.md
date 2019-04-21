@@ -62,5 +62,3 @@ bResult = objCom.UDPClient(string ServerIP, string ServerPort, string SendMsg, s
 bResult = objCom.UDPClient("190.x.x.1","9097",msg,logPath)
 
 ```
-
-![CryptoEncDec IMG](https://user-images.githubusercontent.com/49525161/56465899-3ff33280-6443-11e9-9f24-2bd25840c2c3.JPG)
