@@ -8,7 +8,7 @@
 
 | 프로젝트 | 설명 | .NET버젼 | AdoToFormats버젼 |
 | -------- | -------- | -------- | -------- |
-| DevCommonCheck | IIS Log File 검색	| .NET 3.5	| DevCommonCheck 1.0.0.0 |
+| DevCommonCheck | 서버 체크 Com+	| .NET 3.5	| DevCommonCheck 1.0.0.0 |
 
 ## 2. DevCommonCheck 정보 및 참조
 - Server Ping Check
