@@ -6,7 +6,7 @@
 ### *[ DevCommonCheck Solution ]	
 ### *[ DevCommonCheck.csproj ]	
 
-| 프로젝트 | 설명 | .NET버젼 | AdoToFormats버젼 |
+| 프로젝트 | 설명 | .NET버젼 | DevCommonCheck버젼 |
 | -------- | -------- | -------- | -------- |
 | DevCommonCheck | 서버 체크 Com+	| .NET 3.5	| DevCommonCheck 1.0.0.0 |
 
